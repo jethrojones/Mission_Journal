@@ -1,15 +1,17 @@
 ---
 layout: post
 title: The First Mad Rush to Get it all Down
-date: '2000-11-21'
+date: 2000-11-21
 author: jethrojones
 tags:
-- why serve
-- Apostle
-- talks
-- general authority
-- testimony
-modified_time: '2009-04-27T20:40:33.625-07:00'
+  - why
+  - serve
+  - Apostle
+  - talks
+  - general
+  - authority
+  - testimony
+modified_time: 2009-04-27T20:40:33.625-07:00
 blogger_id: tag:blogger.com,1999:blog-1475781364046176345.post-2205395974847422307
 blogger_orig_url: https://elderdajones.blogspot.com/2000/11/first-mad-rush-to-get-it-all-down.html
 ---
