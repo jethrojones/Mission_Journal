@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The First Mad Rush to Get it all Down
-date: '2000-11-21T20:57:00.000-08:00'
+date: '2000-11-21'
 author: jethrojones
 tags:
 - why serve
