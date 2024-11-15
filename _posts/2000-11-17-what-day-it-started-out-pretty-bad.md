@@ -1,0 +1,19 @@
+---
+layout: post
+title: Trying to Help
+date: '2000-11-17T22:43:00.000-08:00'
+author: jethrojones
+tags:
+- MTC
+modified_time: '2009-04-19T21:48:46.040-07:00'
+thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAUQzIN5uDFY8GSwHHwn5WwnWhyphenhyphenbUtSL8Cr_jKuyV2rgFkMGus5C8jID5elzSNaQJ1UAhNwNN7UIYF3lTu7vawSGt6NJtg7189lwhpGVTyQbf1UKuCl4MDMHimF2NCzku5W4iXx4rvGTtL/s72-c/MTC+Day+3+000.jpg
+blogger_id: tag:blogger.com,1999:blog-1475781364046176345.post-3158278712407714606
+blogger_orig_url: https://elderdajones.blogspot.com/2000/11/what-day-it-started-out-pretty-bad.html
+---
+
+
+[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAUQzIN5uDFY8GSwHHwn5WwnWhyphenhyphenbUtSL8Cr_jKuyV2rgFkMGus5C8jID5elzSNaQJ1UAhNwNN7UIYF3lTu7vawSGt6NJtg7189lwhpGVTyQbf1UKuCl4MDMHimF2NCzku5W4iXx4rvGTtL/s400/MTC+Day+3+000.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAUQzIN5uDFY8GSwHHwn5WwnWhyphenhyphenbUtSL8Cr_jKuyV2rgFkMGus5C8jID5elzSNaQJ1UAhNwNN7UIYF3lTu7vawSGt6NJtg7189lwhpGVTyQbf1UKuCl4MDMHimF2NCzku5W4iXx4rvGTtL/s1600-h/MTC+Day+3+000.jpg)[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYtoUZzBU2Ft3O8-X1wAmtGEGSV3Gl_phdg-8CSoB68ZkFOzGq5fQp7rcl2tNF7Yz3UlZvmjsuV7yjALNR_PEylBWHMmaHbI2MjidaImpmZGdX1qEX1AzLSxifXGL3HNMkD1tMOqxhp27H/s400/MTC+Day+3+001.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYtoUZzBU2Ft3O8-X1wAmtGEGSV3Gl_phdg-8CSoB68ZkFOzGq5fQp7rcl2tNF7Yz3UlZvmjsuV7yjALNR_PEylBWHMmaHbI2MjidaImpmZGdX1qEX1AzLSxifXGL3HNMkD1tMOqxhp27H/s1600-h/MTC+Day+3+001.jpg)[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0eJlLfxyxXtI3qDomnmhCby03WS_xbd3D5PdN8R_2tx8WtaD3KTlYSLS7mAtuliJRGbS9AvsF3Fz7eOuN6ATpmcYivUwqzr6HLEsY3yt18W-tSnM9-Kbx8w50wT7tskddk6TkEJ1KpqtD/s400/MTC+Day+3+002.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0eJlLfxyxXtI3qDomnmhCby03WS_xbd3D5PdN8R_2tx8WtaD3KTlYSLS7mAtuliJRGbS9AvsF3Fz7eOuN6ATpmcYivUwqzr6HLEsY3yt18W-tSnM9-Kbx8w50wT7tskddk6TkEJ1KpqtD/s1600-h/MTC+Day+3+002.jpg)What a day! It started out pretty bad. I was very frustrated with my inability to learn Russian [understandably so, after 16 hours of trying to figure it out, I should have it mastered]. I was complaining and bothering the spirit for my roommates. Then, later, I was still frustrated, but at least I was not complaining. I just had a sour look on my face. Then one of my companions told us that he didn't feel like he should be here. We told him it was Satan being a jerk and being evil. I bore my testimony and we prayed. We asked Heavenly Father for his Spirit to be with us. We went to class and towards the end, we had to teach the first discussion, and as I was teaching, I could feel the spirit. Then, when Elder Parscal started to teach, I could really feel the Spirit. He taught with such power. It was awesome. When we got back, we told him that we felt the Spirit when he was teaching. It was great. He still had doubts, but by the Spirit of our wonderful Heavenly Father, we were able to help Elder Parscal feel the Spirit and know that Heavenly Father loves him. God is wonderful. I love Him so much. When I bore my testimony before, it was through Heavenly Father's grace and power. I pray that I may always recognize His hand in all things. I love Him so much. I know that His hand is always there and if I keep His commandments, I will live with Him again.
+
+
+I received my first letter today. It was from Amy, my sister. She just wrote to tell me that she loves me and is very proud of me. I love her very much and I am so happy that she is my sister. I love this church and I love this gospel. It is late, and I must retire. (We learned how to write in Russian tonight and it was cool).
+[Amy would become the best letter write in the family. It was always so cool to get a letter from her. I got a lot and I have them all (or at least most of them) in a 3-inch three-ring binder. Thanks, Hunzy!]
