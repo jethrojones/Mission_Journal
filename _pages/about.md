@@ -1,13 +1,12 @@
 ---
 layout: page
-title: Memoirs, a free minimalist Jekyll blogging theme with modern design 
+title: A collection of journals from my mission
 permalink: /about
 comments: false
-image: assets/images/screenshot.jpg
+image: assets/images/_studiosquare.jpg
 imageshadow: true
 ---
 
-This website is a demonstration to see **Memoirs Jekyll theme** in action. The theme is compatible with Github pages, in fact even this demo itself is created with Github Pages and hosted with Github. 
+This web site contains my journals from 2000-2002 serving in the Russia Novosibirsk Mission. 
 
-<a target="_blank" href="https://bootstrapstarter.com/jekyll-theme-memoirs/" class="btn btn-dark"> Get Memoirs for Jekyll &rarr;</a>
-
+It was amazing, and I'm so grateful for the opportunity to have served. 

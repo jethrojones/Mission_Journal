@@ -14,23 +14,15 @@ email: wowthemesnet@gmail.com
 
 # Authors
 authors:
-  sal:
-    name: Sal
-    display_name: Sal
-    avatar: 'assets/images/avatar-sal.png'
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net/donate/
-    twitter: https://twitter.com/wowthemesnet
-    description: "Author of Memoirs, a Bootstrap Medium styled template available for Jekyll. You are currently previewing Jekyll template demo."
-  john:
-    name: John
-    display_name: John    
-    avatar: 'assets/images/avatar.png'
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "Write a short description of the author here. You are currently previewing Memoirs demo, a Jekyll template compatible with Github pages."
-
+  jethro:
+    name: Jethro
+    display_name: Jethro
+    avatar: 'assets/images/_studiosquare.png'
+    email: jethro@hey.com
+    web: https://jethrojon.es
+    twitter: https://x.com/jethrojones
+    description: "Jethro, served in Russia Novosibirsk Mission 2000-2002"
+  
 # Plugins
 plugins:
   - jekyll-paginate
@@ -67,7 +59,7 @@ adsense-data-ad-client: "ca-pub-3412143450191416"
 adsense-data-ad-slot: "1363087678"
 
 # Lazy Images ("enabled" or "disabled")
-lazyimages: "disabled"
+lazyimages: "enabled"
 
 # Post Author Box ("enabled" or "disabled")
 authorbox: "enabled"
