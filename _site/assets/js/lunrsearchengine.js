@@ -13,7 +13,7 @@ var documents = [{
     "id": 2,
     "url": "http://localhost:4000/jekyll-theme-memoirs/authors",
     "title": "Authors",
-    "body": "                                                                                                                                                                                    Sal:         Author of Memoirs, a Bootstrap Medium styled template available for Jekyll. You are currently previewing Jekyll template demo.                                                                                                                                                                                                    John:         Write a short description of the author here. You are currently previewing Memoirs demo, a Jekyll template compatible with Github pages.                "
+    "body": "                                                                                                                                                                                    Jethro:         Jethro, served in Russia Novosibirsk Mission 2000-2002                "
     }, {
     "id": 3,
     "url": "http://localhost:4000/jekyll-theme-memoirs/categories",
