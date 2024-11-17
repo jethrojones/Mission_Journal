@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Elder Allread: DL'
+title: 'Elder Allred: DL'
 date: '2000-11-20T20:47:00.000-08:00'
 author: jethrojones
 tags:
