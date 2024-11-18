@@ -5,6 +5,7 @@ date: 2000-11-22T20:45:00.000-08:00
 author: jethrojones
 tags:
   - blessings
+  - MTC
 modified_time: 2009-04-27T21:22:53.509-07:00
 thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikaYgLgKnusY8mJ8UQ-eo82jZYfM3HfGagpmm4hmkWMXV6E5pHZ-lvKXffoYpg5Q6pXtV_B6N0oQvBtKMW0CyZC05eYZYYDDjT4iP70B3uIJVMVBOEtsrIxqmJZ1cSTD2jH701xRrY8TpB/s72-c/Hill+of+howardess.jpg
 blogger_id: tag:blogger.com,1999:blog-1475781364046176345.post-73015025405463584
